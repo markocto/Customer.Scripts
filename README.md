@@ -1,2 +1,2 @@
 # Customer.Scripts
-A public repo for scripts that my TAM customers have asked for
+A public repo for scripts that my customers have requested.
